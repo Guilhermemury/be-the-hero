@@ -10,9 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.2"
-  },
-  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
     "cors": "^2.8.5",
     "install": "^0.13.0",
     "knex": "^0.20.13",
